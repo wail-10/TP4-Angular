@@ -55,34 +55,6 @@ Ce projet est une application de gestion de produits qui permet d'ajouter, de mo
 - Bootstrap
 - Bootstrap Icons
 
-## Installation
-
-1. Cloner le projet
-
-   ```bash
-   git clone https://github.com/anaserrami/Activite-Pratique-N4-Product-Management-using-Angular-Framework.git
-    ```
-2. Installer les dépendances
-
-   ```bash
-   cd Activite-Pratique-N4-Product-Management-using-Angular-Framework
-   npm install
-   ```
-   
-3. Démarrer le serveur pour le backend
-
-   ```bash
-    npm run server
-    ```
-   
-4. Démarrer le server pour le frontend
-
-   ```bash
-    ng serve
-    ```
-   
-5. Ouvrir le navigateur et accéder à l'adresse `http://localhost:4200/`
-
 ## Résultat
 
 - **Login (par exemple : en tant que admin)**
